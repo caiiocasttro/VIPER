@@ -18,5 +18,6 @@ The application fetch data(User's name) from the JSON API and displays it in a l
 
 ### 📸 Screenshots of the application
 
-![VIPER Screenshot](https://github.com/caiiocasttro/VIPER/assets/104564732/4164b706-5546-4d55-9515-cccc83a5be99)
+![VIPER Screenshot](https://github.com/caiiocasttro/VIPER/assets/104564732/7bc46802-bc98-4b51-b6a5-cb13b6741cee)
+
 
